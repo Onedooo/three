@@ -6,11 +6,19 @@
 ##### 안뇽
 ***
 ###### 히히
+
 ** 원민재**원민재
+
 _원민재_원민재
+
 ~~원민재~~
+
 'function add(x,y){return x+y}'
+
 '''python
+
 number = input("정수입력")
-number=int(number
+
+number=int(number)
+
 '''
