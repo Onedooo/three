@@ -21,5 +21,6 @@ _원민재_원민재
 number = input("정수입력")
 
 number=int(number)
-
 '''
+<http://www.naver.com>
+[네이버](http://www.naver.com, "메인포털")
